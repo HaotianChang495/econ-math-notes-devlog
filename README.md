@@ -18,3 +18,15 @@ Development log for a personal site of economics and mathematics course notes: w
   - 工具箱常驻：脚本、样式和规则存进 Project。
 - **Keep only formats you read.** Every extra format costs time.
   - 只留用得上的格式：多一种格式，就多一份成本。
+
+## Updates 9/27/2026
+#### Takeaways: Break the boundaries
+
+- **Break course boundaries.** Topics link economics and mathematics across courses.
+  - 打破课程壁垒：主题跨课程串起经济与数学。
+- **Tag in the source.** Label sections by topic; link related ideas.
+  - 在源文件里标注：按节标主题，用另见链接相关内容。
+- **Make modes obvious.** A toggle and new colors mark the view.
+  - 模式要醒目：开关加新配色，一眼可辨。
+- **Check coverage.** The build confirms every block lands in exactly one topic.
+  - 自动查漏：每块内容恰好归入一个主题。 
